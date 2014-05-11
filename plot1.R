@@ -1,5 +1,3 @@
-setwd("C:/Data")
-
 setwd("C:/Users/js1/Documents/GitHub/ExData_Plotting1")
 
 hpc = read.table("household_power_consumption.txt", header = TRUE, sep=";", 

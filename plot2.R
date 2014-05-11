@@ -1,5 +1,3 @@
-setwd("C:/Data")
-
 hpc = read.table("household_power_consumption.txt", header = TRUE, sep=";", 
                  colClasses = "character", na.strings = "?")
 
